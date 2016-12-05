@@ -1,0 +1,16 @@
+ul.navbar-nav li {
+  background-color: #fff;
+}
+ul.navbar-nav li:not(:first-child) {
+  border-top: 8px solid #f8f8f8;
+}
+
+section > div {
+  background-color: #f8f8f8;
+  padding: 0 2em 0 2em;
+  margin-bottom: 2em;
+  border: 1px solid #777;
+}
+p {
+  margin-top: 4px;
+}
